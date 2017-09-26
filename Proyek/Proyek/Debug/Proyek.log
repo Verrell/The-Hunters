@@ -1,0 +1,56 @@
+﻿Build started 03/09/2016 2:23:13.
+     1>Project "C:\Users\user\Documents\Visual Studio 2010\Projects\Proyek\Proyek\Proyek.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Proyek.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\SFML\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SFML.cpp
+         SFML.cpp
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(40): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(41): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(69): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(72): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(104): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(105): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(195): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(196): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(555): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(568): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(568): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(572): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(572): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(577): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(577): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(579): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(579): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(597): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(619): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(634): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(641): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(661): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(661): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(680): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(680): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(707): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(708): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(725): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(726): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\proyek\proyek\sfml.cpp(756): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\Visual Studio 2010\Projects\Proyek\Debug\Proyek.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\SFML\SFML-2.3.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-network-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Proyek.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Documents\Visual Studio 2010\Projects\Proyek\Debug\Proyek.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\Visual Studio 2010\Projects\Proyek\Debug\Proyek.lib" /MACHINE:X86 Debug\Proyek.exe.embed.manifest.res
+         Debug\SFML.obj /SUBSYSTEM:windows /ENTRY:mainCRTStartup 
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Proyek.exe.embed.manifest" /manifest Debug\Proyek.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Proyek.vcxproj -> C:\Users\user\Documents\Visual Studio 2010\Projects\Proyek\Debug\Proyek.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Proyek.unsuccessfulbuild".
+         Touching "Debug\Proyek.lastbuildstate".
+     1>Done Building Project "C:\Users\user\Documents\Visual Studio 2010\Projects\Proyek\Proyek\Proyek.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.22
